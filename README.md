@@ -8,12 +8,18 @@
 
 <br>
 
- 🖥️  Estudo tecnologia e subo meus projetos aqui...
+ 🖥️  Estudo tecnologia na etec zona leste..
  <br>
  🤷🏾‍♂️  onde me encontrar: instagram...
+ <br>
+ tenho 16 anos 
+ <br>
+ estudo no periodo da tarde
+
  
 
-<br>
+
+
 <br>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juan9321&layout=compact&show_icons=true&theme=dark"/>       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan9321&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
