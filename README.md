@@ -12,9 +12,9 @@
  <br>
  🤷🏾‍♂️  onde me encontrar: instagram...
  <br>
- tenho 16 anos 
+ 🎂  tenho 16 anos 
  <br>
- estudo no periodo da tarde
+ 📖  estudo no periodo da tarde
 
  
 
