@@ -17,8 +17,10 @@
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juan9321&layout=compact&show_icons=true&theme=dark"/>       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan9321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/joãoenrique">
+  <a href="https://www.linkedin.com/in/juanfarias">
    <img style="background: red;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><!--javascript-->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><!--html5-->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><!--css3-->
