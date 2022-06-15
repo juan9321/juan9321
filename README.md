@@ -1,10 +1,8 @@
 <h1>Oiii eu sou o juan!</h1>
 <br>
-<br>
 
-![0_-u0b7K0Q6zfBcQqT](https://user-images.githubusercontent.com/99427234/172968101-61372e93-83d0-43fa-86f8-f302b52e84b6.gif)
 
-<br>
+
 <br>
 
  🖥️  Estudo tecnologia e subo meus projetos aqui...
