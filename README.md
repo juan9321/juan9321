@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Oiii eu sou o juan!</h1>
 <br>
-</div>
+
 
 
 <br>
@@ -45,3 +45,4 @@
   </a>
  </div>
 <hr width = 90%>
+</div>
