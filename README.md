@@ -1,4 +1,3 @@
-![cold__rainy_day_by_bbrunomoraes-da60svg](https://user-images.githubusercontent.com/99427234/173891787-05280c35-0dc9-4b80-8bc8-0f0094796972.gif)
 
 <div align="center">
 <h1>Oiii eu sou o juan!</h1>
@@ -16,7 +15,6 @@
  <br>
  📖  estudo no periodo da tarde
 
- 
 
 
 
