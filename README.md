@@ -5,7 +5,7 @@
 </div>
 I graduated in Systems Development from ETEC Zona Leste and am currently pursuing a degree in Systems Analysis and Development at FATEC Zona Leste.
 🇧🇷 Proud Brazilian developer
-🎂 I'm 17 years old
+🎂 I'm 18 years old
 📖 I dedicate my nights to studies.
 <br>
 <br>
