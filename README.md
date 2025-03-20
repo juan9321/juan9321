@@ -16,7 +16,7 @@ I graduated in Systems Development from ETEC Zona Leste and am currently pursuin
 
 </div>
 
-I excel in HTML, CSS, JavaScript, and Bootstrap, with a keen interest in crafting designs on Figma. Currently, I'm expanding my skills in PHP, Laravel, and Node.js, embracing the challenge of mastering diverse technologies in the dynamic field of web development.
+I excel in HTML, CSS, JavaScript, and Bootstrap, with a keen interest in crafting designs on Figma. Currently, I'm expanding my skills in PHP, Laravel, and Node.js, React embracing the challenge of mastering diverse technologies in the dynamic field of web development.
 
 
 <br>
